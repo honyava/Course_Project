@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Course.PrjPcb]
+   Generated File[PCB_Course_Mitr.RUL]
+   Generated File[PCB_Course_Mitr.EXTREP]
+   Generated File[PCB_Course_Mitr.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:39:24 On 10/10/2022

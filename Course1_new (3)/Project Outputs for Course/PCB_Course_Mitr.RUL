@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\retin\Desktop\Семестры\7 Семестр\Курсач - Альтиум\Course1_new (2)\PCB_Course_Mitr.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_KeepOutLayer|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
